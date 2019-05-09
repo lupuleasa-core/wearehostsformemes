@@ -198,9 +198,11 @@ Memetic **awareness** is useful for altering the effects of the memes on the hos
 
 Memetics are based on replicators, which have 3 traits.
 
-    Copying-fidelity (Fuzziness)
-    Fecundity (Rate of copy)
-    Longevity (Stickiness) 
+1)Copying-fidelity (Fuzziness)
+
+2)Fecundity (Rate of copy)
+
+3)Longevity (Stickiness) 
 
 &nbsp;
 
@@ -321,10 +323,15 @@ The higher the fitness, the better the meme is suited for replication in the env
 &nbsp;
 
 A formula for fitness based on criteria, for instance:
+
 F(m) = R(m) . A(m) . T(m) . E(m)
+
 R retention
+
 A assimilation
+
 T transmission
+
 E expression
 
 &nbsp;

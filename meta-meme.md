@@ -1,4 +1,4 @@
-Memes are patterns of information that can indirectly influence their surroundings. 
+**Memes** are patterns of information that can indirectly influence their surroundings. 
 
 This includes any text, thought, sense or symbol that can be understood.
 

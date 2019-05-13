@@ -12,3 +12,4 @@
 
 - Know yourself
 - Competition with yourself
+- The self is the ego. You are a meme.

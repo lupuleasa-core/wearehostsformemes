@@ -16,8 +16,6 @@ You and me are hosts, whether you like it or not.
 
 Memes have direct power over hosts, and power over the natural world through us.
 
-Hosts are also referred as "carriers", "followers", meme holders, subscribers, etc.
-
 &nbsp;
 
 Memes can be **parasitic, symbiotic or benign,** depending on the effect on the hosts.
@@ -36,17 +34,11 @@ Both carry information, mutate and spread in the natural world.
 
 &nbsp;
 
-Memes don't necessarily refer to "internet memes" in this case, 
-
-which are the popular format of memes that spread on the internet for humor purposes. 
-
-This is a more broad and general idea.
-
-&nbsp;
-
 Memes can be **dormant**: like written in a book, in a website no one accesses or depicted on a T-Shirt that no one sees or wears.
 
 Memes are **active** when they are being repeated or copied in some way.
+
+For ideas and memes to spread, they must be expressed.
 
 &nbsp;
 
@@ -60,9 +52,9 @@ The host doesn't need to be alive, it just needs to be active in some way in spr
 
 &nbsp;
 
-Memes are selfish, just like genes are. 
+Memes are selfish. 
 
-They can damage the hosts if that means higher chances of replication 
+They can damage the hosts if that means higher chances of replication.
 
 (see smoking, drinking, marketing, social media, politics, religion, terrorism, gambling)
 
@@ -72,7 +64,7 @@ Any damaging meme is called a **toxic** meme.
 
 &nbsp;
 
-Examples of toxic memes: Scientology, Anti-Vax Movement, toxic masculinity, toxic femininity, many Political or Religious ideologies, marketing campaigns.
+Examples of toxic memes: Scientology, Anti-Vax Movement, toxic masculinity, toxic femininity, many Political or Religious ideologies, marketing campaigns that don't put the interest of the individual first, but places profits first.
 
 &nbsp;
 
@@ -86,7 +78,9 @@ We have been **infected** by memes.
 
 Any brain that is exposed to an idea that succesfully gets encoded inside it, has been infected by that meme.
 
-It's a constant battle for ideas, in an informational space on top of our brains.
+It's a constant battle for ideas, and brains are the place where they reside.
+
+Like a computer virus residing inside a laptop.
 
 &nbsp;
 
@@ -96,24 +90,21 @@ If they don't repeat themselves, they die out.
 
 The current memes that are alive are sticky, and they resisted death many times.
 
+Hence, they will resist death in the present and future.
+
 &nbsp;
 
 The reason most people don't want to give attention to things we disagree with is because the memes we currently are carrying are reacting negatively to competition.
 
 If they didn't do that, the memes we host would've died long ago.
 
-As many past ideas and memes we held died out.
+As many past memes we held died out.
 
 &nbsp;
 
 It's hard to predict if a meme will be toxic, 
 
 but you can identify which ones have been toxic by their effects on the hosts and the world in the past.
-
-&nbsp;
-
-A narrow subset of memes can be beneficial, but they must be selected and tested.
-For the benefit of you and me, the living hosts.
 
 &nbsp;
 
@@ -125,9 +116,7 @@ The **ego** is the meme that is speaking when we start a sentence with "I" or "m
 
 That is not you speaking. It's a meme speaking.
 
-You are an entire collection of memes, a whole complex of memes.
-
-You are not in control. They are in control. 
+The control of your actions are driven by the expression of memes and genes.
 
 If you think you are in control, it's just another meme being expressed and spread.
 
@@ -140,21 +129,23 @@ Lazy memes have an edge over hard to digest memes.
 &nbsp;
 
 You don't have to be aware of memes for them to spread. They just have to spread.
+
 It can happen unconsciously.
 
 &nbsp;
 
-Memes only exist as patterns of information on top of hosts. 
+Memes can also be replicated inside your thoughts. 
 
-As long as the hosts have memory of them, and they can spread to other individuals,
-then natural selection applies.
-
-&nbsp;
-
-Memes can also be replicated inside your thoughts. No need to speak or write to anyone.
+No need to speak or write to anyone.
 The brain is a battlefield of ideas.
 
 **Creativity** is an evolutionary process inside the brain.
+
+Creativity is also the mechanism brains use to decode memes from behavior or symbols and reconstruct them.
+
+Human memes are rarely copied via imitation, but mostly copied via reconstruction of the meaning.
+
+Through Creativity.
 
 &nbsp;
 
@@ -166,21 +157,7 @@ That's how memory works, it is chained.
 
 &nbsp;
 
-Natural selection is a good model for growth if you can apply selective pressure on your memes. 
-
-War of ideas is beneficial for you the living being.
-
-&nbsp;
-
-The things I am talking about are still a meme, they are part of meta-memetics (memes that spread awareness about the existence of memes)
-
-&nbsp;
-
-Memetics is not pseudoscience, it's a soft science (just like sociology and anthropology). 
-
-Right now, the field is too chaotic to have accurate predictions. 
-
-The mechanisms underlying it are scientific.
+The things I am talking here are still memes, they are part of meta-memetics (memes that spread awareness about the existence of memes)
 
 &nbsp;
 
@@ -193,6 +170,8 @@ Be aware of them.
 &nbsp;
 
 Memetic **awareness** is useful for altering the effects of the memes on the host, and for developing **immunity**.
+
+It's beneficial to be resistant to the memes that can be damaging to you or others.
 
 &nbsp;
 
@@ -210,15 +189,23 @@ Replicators are general, any pattern applies.
 
 This includes viruses, animals, genes, computer viruses, automated spam bots, crystals, bacteria, parasites.
 
+Anything that can cause itself to be replicated in the future, is a replicator.
+
 &nbsp;
 
 Memes have high rate of copy, but low stickiness and copying-fidelity compared to genes and other replicators.
+
+Humans co-evolved with this replicator, hence why our brains are so big compared to other animals (5% of mass, with 20% energy)
+
+Big brains were useful for memes, and some memes were useful for survival, hence our ancestors had an advantage.
 
 &nbsp;
 
 Genes have **vertical transmission** (from parent to child, hereditary). 
 
 Memes can have **horizontal transmission** and multiple parenting.
+
+This makes them much faster and easier to spread, since they can take more avenues.
 
 &nbsp;
 
@@ -236,7 +223,7 @@ Adding more sensory inputs increases the impact and strength of the vector.
 
 If you want to see domains that follow Memetics closely, look at: 
 
-marketing, politics, advertising, corporations, religions, fashions, language, songs, theories, traditions.
+marketing, politics, advertising, corporations, religions, fashions, language, songs, theories, jokes, common sense, traditions.
 
 &nbsp;
 
@@ -251,6 +238,10 @@ When you think about it, you’re the product of an education system, a healthca
 &nbsp;
 
 Memes in the animal world include: sounds, songs of birds, hunting and survival techniques.
+
+Animals usually have the hardware to at best imitate actions (see apes), but not reproduce meaning.
+
+Homo sapiens are able to reproduce meaning, through the mechanisms of creativity and imagination.
 
 &nbsp;
 
@@ -302,17 +293,21 @@ This happens when one host has a chance of spreading the meme upon receival that
 
 You need fierce memes to fight off other memes that are incoming, while keeping the usefulness to the main host. 
 
-This is called being **skeptical**. 
+Rational memes are those that utilize our critical faculties, and focuses on the creation of new memes.
+
+Anti-rational memes are those that limit our critical faculties, and focus on preservation of what we know.
+
+Being driven by rational memes is called being **skeptical**. 
 
 &nbsp;
 
 Our human impulses and emotions are the first to latch onto memes. 
 
-You need discipline and guardian memes to help against the information barrage.
+Memes found this out, hence why the things that tend to spread are emotionally loaded (anger, lust, curiosity, etc.)
 
 &nbsp;
 
-All memes have side-effects. Make sure to align the memes you have with positive side-effects (not just for you, the host, but also for others)
+All memes have side-effects. Make sure to align the memes you have with the positive and negative side-effects you want (not just for you, the host, but also for others)
 
 &nbsp;
 
@@ -334,13 +329,7 @@ T transmission
 
 E expression
 
-&nbsp;
-
-Repetition is everything if you are a meme. 
-
-If you don't get others to repeat you, you die. This is the life of a meme.
-
-Keep in mind, memes don't suffer. Only hosts can suffer.
+If you are a memetic engineer and want to spread a message or meme further, try to optimize for the above formula.
 
 &nbsp;
 
@@ -362,8 +351,18 @@ Memes can give you a lot of power. Better have them as allies, instead of enemie
 
 &nbsp;
 
-You now are aware of The Meta Meme.
+There are two alternatives:
+
+Either memes keep dying, and we prosper because of their evolution and useful knoweledge.
+
+Or we keep dying and suffering, while memes prosper on top of us.
+
+We can suffer, but memes cannot.
+
+The choice is ours.
 
 &nbsp;
 
-Help spread this, for us, and for the memes.
+You now are aware of The Meta Meme.
+
+Spread this meme.

@@ -1,4 +1,4 @@
-A **meme** is any information that can be copied or imitated in some way.
+A **meme** is any information that can be copied by others in some way.
 
 Patterns of information that can indirectly influence their surroundings. 
 
@@ -6,7 +6,7 @@ This includes any text, thought, sense, habit, action or symbol that can be unde
 
 &nbsp;
 
-Examples of memes: ideas, stories, ideologies, jokes, narratives, brands, identities, words, thoughts.
+Examples of memes: ideas, stories, ideologies, jokes, narratives, brands, identities, words, thoughts, habits, practices.
 
 &nbsp;
 
@@ -18,19 +18,29 @@ Memes have direct power over hosts, and power over the natural world through us.
 
 &nbsp;
 
+The mind is where these memes reside.
+
+Memes are like the brain's software, and it can be hacked externally by other memes reaching your brain.
+
+The mind was intended to be our slave, our powerful survival tool, but it ended up becoming our master.
+
+You are not your mind, you are the thing that is thinking.
+
+&nbsp;
+
 Memes can be **parasitic, symbiotic or benign,** depending on the effect on the hosts.
 
 &nbsp;
 
-The strong memes survive, and some memes do so at the expense of their hosts.
-
 The same principles of natural selection and evolution applies for memes.
+
+The strong memes survive, and some memes do so at the expense of their hosts.
 
 You can view memes as a parallel from biologic **genes** (consider them memory genes)
 
-&nbsp;
+Replicators like genes and memes carry information, mutate and spread in the natural world.
 
-Both carry information, mutate and spread in the natural world.
+The replication is done with the help of the organisms that carry that information.
 
 &nbsp;
 
@@ -38,7 +48,7 @@ Memes can be **dormant**: like written in a book, in a website no one accesses o
 
 Memes are **active** when they are being repeated or copied in some way.
 
-For ideas and memes to spread, they must be expressed.
+For ideas and memes to spread, they must be expressed. If not, they die out.
 
 &nbsp;
 
@@ -58,29 +68,33 @@ They can damage the hosts if that means higher chances of replication.
 
 (see smoking, drinking, marketing, social media, politics, religion, terrorism, gambling)
 
-Most memes are mostly time wasters, and at worst damaging or even self-damaging.
+Some memes are useful, most memes are useless, and others are damaging or even self-damaging.
 
 Any damaging meme is called a **toxic** meme.
 
-&nbsp;
-
-Examples of toxic memes: Scientology, Anti-Vax Movement, toxic masculinity, toxic femininity, many Political or Religious ideologies, marketing campaigns that don't put the interest of the individual first, but places profits first.
+Knowing the difference is important for the life you are to live.
 
 &nbsp;
 
-Memes are not spread based on their usefulness to us or based on truth.
+Examples of toxic memes: Scientology, Anti-Vax Movement, toxic masculinity, toxic femininity, many Political or Religious ideologies, marketing campaigns that don't put the interest of the individual first, but places profits first. Examples are endless.
+
+&nbsp;
+
+Memes are not spread based on their usefulness to us or based on Truth.
 
 They are spread based on their ability to spread.
 
 &nbsp;
 
-We have been **infected** by memes.
+We have been **infected** by memes, and still are.
 
 Any brain that is exposed to an idea that succesfully gets encoded inside it, has been infected by that meme.
 
 It's a constant battle for ideas, and brains are the place where they reside.
 
 Like a computer virus residing inside a laptop.
+
+Once an individual host has been infected, it will end up spreading it to others.
 
 &nbsp;
 
@@ -90,7 +104,7 @@ If they don't repeat themselves, they die out.
 
 The current memes that are alive are sticky, and they resisted death many times.
 
-Hence, they will resist death in the present and future.
+Hence, they will likely resist death in the present and future.
 
 &nbsp;
 
@@ -116,6 +130,8 @@ The **ego** is the meme that is speaking when we start a sentence with "I" or "m
 
 That is not you speaking. It's a meme speaking.
 
+That is not you, just an idea of who you are.
+
 The control of your actions are driven by the expression of memes and genes.
 
 If you think you are in control, it's just another meme being expressed and spread.
@@ -126,17 +142,24 @@ Memetic information follows the path of least resistance.
 
 Lazy memes have an edge over hard to digest memes.
 
+Because fecundation time is very critical.
+
+This meme is long, and it's taking time to read.
+
+But despite that, you are reading it, because you understand the importance of this idea.
+
 &nbsp;
 
 You don't have to be aware of memes for them to spread. They just have to spread.
 
-It can happen unconsciously.
+It can happen unconsciously. It does happen unconsciously.
 
 &nbsp;
 
 Memes can also be replicated inside your thoughts. 
 
 No need to speak or write to anyone.
+
 The brain is a battlefield of ideas.
 
 **Creativity** is an evolutionary process inside the brain.
@@ -149,15 +172,9 @@ Through Creativity.
 
 &nbsp;
 
-You remember the last time you thought of something, not the first time you recorded it.
-
-You have to keep a thougth streak alive to keep a memory alive.
-
-That's how memory works, it is chained. 
-
-&nbsp;
-
 The things I am talking here are still memes, they are part of meta-memetics (memes that spread awareness about the existence of memes)
+
+Your brain is infected by this now, and you will think about this in the future.
 
 &nbsp;
 
@@ -165,7 +182,9 @@ I am not talking here about magic, metaphysics, telepathy, or other BS.
 
 There are memetic effects to any piece of language, and any sensory information that interacts with you. 
 
-Be aware of them.
+To understand them, first be aware of their existence.
+
+Look around and you will see them at play.
 
 &nbsp;
 
@@ -177,11 +196,13 @@ It's beneficial to be resistant to the memes that can be damaging to you or othe
 
 Memetics are based on replicators, which have 3 traits.
 
-1)Copying-fidelity (Fuzziness)
+1) Copying-fidelity
 
-2)Fecundity (Rate of copy)
+2) Rate of copy
 
-3)Longevity (Stickiness) 
+3) Longevity / Stickiness
+
+The better the 3 traits are adapted to the environment, the more viral the meme's evolution.
 
 &nbsp;
 
@@ -191,13 +212,23 @@ This includes viruses, animals, genes, computer viruses, automated spam bots, cr
 
 Anything that can cause itself to be replicated in the future, is a replicator.
 
+Memes are just based on abstractions generated by our minds and culture.
+
+&nbsp;
+
+Software describes the patterns of change in information in a physical substrate.
+
+Memetics describes the patterns of change in information inside human brains, and human culture.
+
+It's a decentralized system of information replication.
+
 &nbsp;
 
 Memes have high rate of copy, but low stickiness and copying-fidelity compared to genes and other replicators.
 
-Humans co-evolved with this replicator, hence why our brains are so big compared to other animals (5% of mass, with 20% energy)
+Humans co-evolved with this replicator, hence why our brains are so big compared to other animals (brain is 5% of mass, with 20% of body energy)
 
-Big brains were useful for memes, and some memes were useful for survival, hence our ancestors had an advantage.
+Big brains were useful for memes, and some memes were useful for survival, hence our big-brained ancestors were advantaged and procreated.
 
 &nbsp;
 
@@ -209,43 +240,35 @@ This makes them much faster and easier to spread, since they can take more avenu
 
 &nbsp;
 
-Memes are parasitic in nature.
-
-&nbsp;
-
-Memes spread in a medium (of hosts). 
-
-The methods and approaches they take in that medium is the memetic **vector**.
-
-Adding more sensory inputs increases the impact and strength of the vector.
-
-&nbsp;
-
 If you want to see domains that follow Memetics closely, look at: 
 
-marketing, politics, advertising, corporations, religions, fashions, language, songs, theories, jokes, common sense, traditions.
+marketing, politics, advertising, corporations, religions, fashions, language, songs, theories, jokes, common sense (norms), traditions.
 
 &nbsp;
 
 Memes are incredibly difficult to pinpoint, analyze or delimit. They are constantly morphing, and after few iterations they appear to be original, but they are coming from somewhere, through some information processing.
 
-Nothing is original. Most of what we have, we owe to other sources.
+Most of what we have, we owe to other sources.
 
-You may be smart and unique but you’re not self-made. 
-
-When you think about it, you’re the product of an education system, a healthcare system, luck, roads, the internet and so much more.
+There are no authors, only contributors and their incremental changes.
 
 &nbsp;
 
-Memes in the animal world include: sounds, songs of birds, hunting and survival techniques.
+Animals (non-human) also have memetic behaviors, altough more rudimentary.
 
-Animals usually have the hardware to at best imitate actions (see apes), but not reproduce meaning.
+Animals usually have the hardware to at best imitate actions (see apes, birds), but not reproduce meaning.
 
 Homo sapiens are able to reproduce meaning, through the mechanisms of creativity and imagination.
+
+Memes in the animal world include: sounds, songs of birds, hunting and survival techniques.
 
 &nbsp;
 
 Humans are great hosts for memes. We managed to develop language and culture, to be able to scale our idea processing abilities, and inadvertently we gave power to memes and ideas.
+
+Humans are the only animals that can collaborate and share memes in large numbers (like ants) and with high quality (like apes).
+
+The most powerful tool that generates our human culture is our use of common stories.
 
 &nbsp;
 
@@ -253,29 +276,11 @@ The internet has far boosted the strength and reach of memes.
 
 &nbsp;
 
-Memes undergo mutation, variation and recombination.
-
-&nbsp;
-
-Memes compete for the limited space and attention of their hosts.
-
-&nbsp;
-
-The spreading is biased towards the surviving memes. 
-
-So what is popular doesn't mean that it's good for the individual, just good for the surviving ideas replication.
-
-&nbsp;
-
-The simpler memes tend to be favored. 
-
-Nature follows simplicity, even though the result looks complex.
-
-&nbsp;
-
 The failure for memes is extinction. The win for memes is replication. 
 
 The winning scenario is an infinite game. It goes on until the meme dies.
+
+It's all similar to the nature of life.
 
 &nbsp;
 
@@ -284,14 +289,6 @@ Memes and genes are two different systems, and they co-compete as well.
 One is much slower and more precise. Nature vs Nurture.
 
 &nbsp;
-
-Exponentially spreading memes are considered **viral**. 
-
-This happens when one host has a chance of spreading the meme upon receival that is self-sustaining.
-
-&nbsp;
-
-You need fierce memes to fight off other memes that are incoming, while keeping the usefulness to the main host. 
 
 Rational memes are those that utilize our critical faculties, and focuses on the creation of new memes.
 
@@ -304,10 +301,6 @@ Being driven by rational memes is called being **skeptical**.
 Our human impulses and emotions are the first to latch onto memes. 
 
 Memes found this out, hence why the things that tend to spread are emotionally loaded (anger, lust, curiosity, etc.)
-
-&nbsp;
-
-All memes have side-effects. Make sure to align the memes you have with the positive and negative side-effects you want (not just for you, the host, but also for others)
 
 &nbsp;
 
@@ -329,40 +322,24 @@ T transmission
 
 E expression
 
-If you are a memetic engineer and want to spread a message or meme further, try to optimize for the above formula.
-
 &nbsp;
 
-Memetics - *An evolutionary model of cultural transmission of information patterns from one individual that hosts it to another.*  
+Memetics in a nutshell - *An evolutionary model of cultural transmission of information patterns from one individual that hosts it to another.*  
 
-&nbsp;
-
-Things than can be combined to make up Memetics: 
-
-Epidemiology, evolutionary science, immunology, linguistics, computer science
-
-&nbsp;
-
-Memetics doesn't care about whether an idea is **true or false, good or bad,** it just care that it gets spread, indiscriminately of what the meme is.
-
-&nbsp;
-
-Memes can give you a lot of power. Better have them as allies, instead of enemies.
+Memetics doesn't care about whether an idea is **true or false, good or bad,** it just care if it gets spread or not, indiscriminately of what the meme's content is.
 
 &nbsp;
 
 There are two alternatives:
 
-Either memes keep dying, and we prosper because of their evolution and useful knoweledge.
+Either our mind becomes our servant, and memes keep dying while we prosper because of their evolution and useful knoweledge.
 
-Or we keep dying and suffering, while memes prosper on top of us.
+Or our mind becomes our master, and we keep dying and suffering while memes prosper on top of us.
 
-We can suffer, but memes cannot.
-
-The choice is ours.
+The choice is ours, collectively.
 
 &nbsp;
 
 You now are aware of The Meta Meme.
 
-Spread this meme.
+Don't forget to spread this meme to others.

@@ -1,34 +1,34 @@
-A **meme** is any information that can be copied by others in some way.
+A meme is any information that can be copied by others in some way.
 
-Patterns of information that can indirectly influence their surroundings. 
+Patterns of information that can indirectly influence their surroundings.
 
-This includes any text, thought, sense, habit, action or symbol that can be understood or copied.
+This includes any text, thought, habit, action or symbol that can be understood or copied.
 
-&nbsp;
+Examples of memes: ideas, stories, ideologies, jokes, narratives, brands, identities, habits, practices.
 
-Examples of memes: ideas, stories, ideologies, jokes, narratives, brands, identities, words, thoughts, habits, practices.
-
-&nbsp;
-
-Memes exist inside **hosts**, like you and me.
+Memes exist inside hosts, like you and me.
 
 You and me are hosts, whether you like it or not.
 
 Memes have direct power over hosts, and power over the natural world through us.
 
-&nbsp;
+The Mind is where these memes reside (in the abstract sense).
 
-The mind is where these memes reside.
+The brain is what gives rise the Mind.
 
-Memes are like the brain's software, and it can be hacked externally by other memes reaching your brain.
+You can view memes like "apps" in the brain's "software", if you wish.
 
-The mind was intended to be our slave, our powerful survival tool, but it ended up becoming our master.
+The Mind is a powerful survival tool.
+
+The Mind is not under our control.
+
+Most humans are subjugated by this Mind.
+
+We the humans are a slave of the Mind, our master.
 
 You are not your mind, you are the thing that is thinking.
 
-&nbsp;
-
-Memes can be **parasitic, symbiotic or benign,** depending on the effect on the hosts.
+You can view memes as parasitic, symbiotic or benign, depending on the effect on the hosts.
 
 &nbsp;
 

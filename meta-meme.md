@@ -256,11 +256,11 @@ It's harder to fall for a trick once you know how the trick works.
 
 Memetics are based on replicators, which have 3 traits.
 
-1) Copying-fidelity
+1-Copying-fidelity
 
-2) Rate of copy
+2-Rate of copy
 
-3) Longevity / Stickiness
+3-Longevity / Stickiness
 
 The better the 3 traits are adapted to the environment, the more viral the meme's evolution.
 
@@ -406,13 +406,13 @@ A formula for fitness based on criteria, for instance:
 
 F(m) = R(m) . A(m) . T(m) . E(m)
 
-R retention
+R - retention
 
-A assimilation
+A - assimilation
 
-T transmission
+T - transmission
 
-E expression
+E - expression
 
 You may make your own, and test.
 
